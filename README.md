@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mykhailo</h1>
 <h3 align="center">I am an junior iOS mobile app developer.</h3>
 
-- 🔭 I’m currently working on **Few Pet Projects**
-
-- 🌱 I’m currently learning **SwiftUI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
