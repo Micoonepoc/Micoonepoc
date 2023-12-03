@@ -3,7 +3,7 @@
 
 ---
 
-### :man_technologist: About me:
+### About me:
 
 I am an junior iOS mobile app developer. My journey in the IT field started in August 2021 when I got interested in mobile development and started learning Swift language myself. From November 2022 to March 2023, I took a basic Swift course, made my first pet project and successfully received a certificate of completion. 
 
